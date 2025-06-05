@@ -1,0 +1,7 @@
+users:
+  admin:
+    username: test@lumen.me
+    password: admin123
+  invalid:
+    username: test@lumen.me
+    password: ""
